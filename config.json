@@ -1,0 +1,16 @@
+{
+  "search_page_depth": 10,
+  "starting_url": "https://scholar.google.com/citations?view_op=view_org&hl=en&org=10194437184893062620",
+  "my_interests": [
+    "machine learning",
+    "statistics",
+    "artificial intelligence",
+    "Data mining",
+    "Information Retrieval",
+    "Deep Learning",
+    "Neural Networks",
+    "computer vision",
+    "pattern recognition"
+  ],
+  "save_filename": "uni_of_melbourne_results.txt"
+}
